@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhongzhi107/packing-template-handlebars.git"
+    "url": "git+https://github.com/packingjs/packing-template-handlebars.git"
   },
   "keywords": [
     "handlebars",
@@ -19,9 +19,9 @@
   "author": "zhongzhi <zhong.zhi@163.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zhongzhi107/packing-template-handlebars/issues"
+    "url": "https://github.com/packingjs/packing-template-handlebars/issues"
   },
-  "homepage": "https://github.com/zhongzhi107/packing-template-handlebars#readme",
+  "homepage": "https://github.com/packingjs/packing-template-handlebars#readme",
   "dependencies": {
     "clear-require": "^1.0.1",
     "handlebars": "^4.0.5",

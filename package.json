@@ -1,6 +1,6 @@
 {
   "name": "packing-template-handlebars",
-  "version": "1.1.1",
+  "version": "2.0.0",
   "description": "handlebars template middleware for express",
   "main": "dist/index.js",
   "scripts": {
@@ -31,7 +31,7 @@
   "homepage": "https://github.com/packingjs/packing-template-handlebars#readme",
   "dependencies": {
     "object-assign-deep": "0.3.1",
-    "packing-template-util": "^1.0.4",
+    "packing-template-util": "^1.1.2",
     "handlebars": "^4.0.5"
   },
   "devDependencies": {

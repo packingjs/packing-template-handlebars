@@ -14,7 +14,6 @@ module.exports = function(options) {
   }, options);
   return async (req, res, next) => {
     const { templatePath, pageDataPath, globalDataPath } = getPath(req, options);
-    console.log('--templatePath:', templatePath);
     const context = await getContext(req, res, pageDataPath, globalDataPath);
     const { template, filename, basedir } = res;
     if (template) {

@@ -31,7 +31,7 @@
   "homepage": "https://github.com/packingjs/packing-template-handlebars#readme",
   "dependencies": {
     "object-assign-deep": "0.3.1",
-    "packing-template-util": "^1.1.2",
+    "packing-template-util": "^1.1.3",
     "handlebars": "^4.0.5"
   },
   "devDependencies": {
